@@ -5,9 +5,10 @@ It utilizes the requests library to send HTTP requests to Google's search engine
 ```
 ## Prerequisites
 Make sure you have the following libraries installed:
-
+```
 pandas
 bs4 (BeautifulSoup)
+```
 You can install these dependencies using pip:
 ```
 pip install pandas beautifulsoup4
